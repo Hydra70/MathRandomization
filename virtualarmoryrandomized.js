@@ -10,7 +10,29 @@ var quotes = [
   "M4 Grenadier, Customized",
   "Rsh 12.7, Customized",
   "IMI Desert Eagle",
-  "Dillon Aero M134D, Customized"
+  "Dillon Aero M134D, Customized",
+  "M60E4 Grenadier, Customized",
+  "Mk14 EBR",
+  "M1911 Operator",
+  "MP5K, Customized",
+  "MP7, Customized",
+  "Target Designator/Rangefinder",
+  "M9 Berreta",
+  "Mauser C96",
+  "Luger P08",
+  "Saiga-12, Customized",
+  "SPAS-12",
+  "Barrett M98 Bravo",
+  "XR-9 Vaporizer",
+  "M134D Blood Dragon",
+  "HK-41",
+  "G36, Customized",
+  "M2 Flamethrower(RESTRICTED USE)",
+  "L86 LMG",
+  "MG3/MG42",
+  "Thumper Grenade Launcher",
+  "M82 MGL",
+  "Browning M1919A1 .30 cal"
 ];
 //Ask user for his or her name
 var login = prompt("Enter a Callsign");
