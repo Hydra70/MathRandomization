@@ -32,7 +32,14 @@ var quotes = [
   "MG3/MG42",
   "Thumper Grenade Launcher",
   "M82 MGL",
-  "Browning M1919A1 .30 cal"
+  "Browning M1919A1 .30 cal",
+  "VSS Vintorez, Customized",
+  "FIM-92 Stinger",
+  "Operative-class Exo, Customized",
+  "Toolgun(Gmod)",
+  "McMillan Tac-50",
+  "SCAR-H Grenadier, Customized",
+  "Taser(Non-Lethal)"
 ];
 //Ask user for his or her name
 var login = prompt("Enter a Callsign");
