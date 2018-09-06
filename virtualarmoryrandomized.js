@@ -39,7 +39,10 @@ var quotes = [
   "Toolgun(Gmod)",
   "McMillan Tac-50",
   "SCAR-H Grenadier, Customized",
-  "Taser(Non-Lethal)"
+  "Taser(Non-Lethal)",
+  "M4A1 Bloodthirsty(Exclusive)",
+  "Railgun Mk3 Razgriz(Exclusive)",
+  "Miniature TLS Wrist Shackle(Exclusive)"
 ];
 //Ask user for his or her name
 var login = prompt("Enter a Callsign");
